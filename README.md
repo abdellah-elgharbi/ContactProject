@@ -22,8 +22,7 @@ Cette application Android permet de lire, rechercher, modifier et charger des co
 - SDK Android version minimale : 23 (Marshmallow)
 - Connexion internet (facultatif pour certaines fonctionnalités)
 
-## Installation et Exécution
-1. Clonez ce dépôt :
-   ```bash
-   git clone <lien-du-repo>
+
+
+
 https://github.com/user-attachments/assets/055202ff-cb21-48cc-9094-97e2a4e00c5a
